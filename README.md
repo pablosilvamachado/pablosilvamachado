@@ -31,8 +31,6 @@ Tenho sólida experiência em:
     - **Ferramentas de Integração e Pesquisa:** RabbitMQ, Redis, ElasticSearch/OpenSearch.
     - **Controle de Versão:** Git, com práticas de branch e CI/CD bem estabelecidas.
 
-Sou comunicativo, de fácil aprendizado, dedicado e mantenho um bom relacionamento interpessoal.
-
 ### Projetos
 
 Aqui no GitHub, você encontrará:
@@ -71,8 +69,6 @@ I have solid experience in:
     - **Infrastructure and DevOps:** Docker, Microservices, Azure.
     - **Integration and Search Tools:** RabbitMQ, Redis, ElasticSearch/OpenSearch.
     - **Version Control:** Git, with well-established branching and CI/CD practices.
-
-I am communicative, a quick learner, dedicated, and maintain strong interpersonal relationships.
 
 ### Projects
 
