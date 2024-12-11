@@ -1,8 +1,17 @@
-# Sobre Mim
+# Sobre Mim | About Me
+
+Bem-vindo ao meu GitHub! / Welcome to my GitHub!  
+Escolha seu idioma preferido: / Choose your preferred language:  
+- [Português](#sobre-mim)  
+- [English](#about-me)
+
+---
+
+## Sobre Mim
 
 Bem-vindo ao meu GitHub! Sou um desenvolvedor com ampla experiência em **análise e desenvolvimento de sistemas** em diversas áreas de negócios, sempre buscando soluções inovadoras e de qualidade. Aqui, você encontrará tanto projetos profissionais quanto projetos de estudo, nos quais compartilho versões anteriores e ideias para aprendizado contínuo.
 
-## Experiência Profissional
+### Experiência Profissional
 
 Tenho sólida experiência em:
 
@@ -24,24 +33,26 @@ Tenho sólida experiência em:
 
 Sou comunicativo, de fácil aprendizado, dedicado e mantenho um bom relacionamento interpessoal.
 
-## Projetos
+### Projetos
 
 Aqui no GitHub, você encontrará:
 
 - **Projetos Profissionais:** Publico versões anteriores de projetos para demonstração e consulta.
 - **Projetos de Estudo:** Exploro novas tecnologias, linguagens e padrões de mercado para constante evolução técnica.
 
-## Vamos Conectar?
+### Vamos Conectar?
 
 Seja para colaboração, troca de ideias ou discussões sobre tecnologia, sinta-se à vontade para entrar em contato comigo. Adoro compartilhar conhecimento e aprender com a comunidade de desenvolvedores!
 
 Obrigado por visitar meu perfil!
 
-# About Me
+---
+
+## About Me
 
 Welcome to my GitHub! I am a developer with extensive experience in **system analysis and development** across various business domains, always striving for innovative and high-quality solutions. Here, you'll find both professional projects and study projects, where I share previous versions and ideas for continuous learning.
 
-## Professional Experience
+### Professional Experience
 
 I have solid experience in:
 
@@ -63,14 +74,14 @@ I have solid experience in:
 
 I am communicative, a quick learner, dedicated, and maintain strong interpersonal relationships.
 
-## Projects
+### Projects
 
 On GitHub, you will find:
 
 - **Professional Projects:** I share previous versions of projects for demonstration and reference.
 - **Study Projects:** Exploring new technologies, languages, and market standards for continuous technical growth.
 
-## Let’s Connect!
+### Let’s Connect!
 
 Whether for collaboration, idea exchange, or discussions about technology, feel free to reach out. I love sharing knowledge and learning from the developer community!
 
